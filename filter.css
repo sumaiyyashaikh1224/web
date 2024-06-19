@@ -1,0 +1,9 @@
+div {
+   filter:grayscde(15px) ; 
+}
+div{
+    background-color: blueviolet;
+}
+p{
+    filter: blur(10px);
+}

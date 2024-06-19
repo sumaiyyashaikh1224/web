@@ -1,0 +1,16 @@
+.box{
+    background-color: brown;
+    width:100px;
+    height:100px ;
+    box-sizing: content-box;
+    padding:20px ;
+}
+.box1{
+    background-color: blue;
+    width: 100px; 
+    height:100px ;
+    box-sizing :border-box; 
+    padding:20px ;
+
+     
+}

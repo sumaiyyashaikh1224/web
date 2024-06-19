@@ -1,0 +1,21 @@
+.card {
+    width: 100px;
+    height: 400px;
+    background-color: darkmagenta;
+
+}
+
+.card img {
+
+    width: 100px;
+}
+
+
+.color p {
+    color: azure;
+
+}
+
+.card button {
+    width: 100px;
+}

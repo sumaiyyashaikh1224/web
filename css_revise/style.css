@@ -1,0 +1,16 @@
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: gold;
+}
+button:active {
+  background: red;
+}
+.box:active.box1 {
+  background: #000;
+}
+.box1 {
+  height: 10px;
+  width: 10px;
+  background: red;
+}

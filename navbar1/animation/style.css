@@ -1,0 +1,26 @@
+.root {
+  background-color: blueviolet;
+  height: 100px;
+  width: 100px;
+  border-radius: 455px;
+  margin: 100px auto;
+  animation: bg 0.3s ease-in-out infinite normal forwards;
+  animation-duration:3s;
+  animation-direction: reverse;
+  
+  animation-fill-mode: forwards
+}
+@keyframes bg {
+  from {
+    background-color: blueviolet;
+    rotate: 0deg;
+    scale: 2;
+    
+
+  }
+  to {
+    background-color: chartreuse;
+    rotate: 90deg   ;
+    translate: 200px 0;
+  }
+}

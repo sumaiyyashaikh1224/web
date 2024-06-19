@@ -1,0 +1,17 @@
+.card {
+    width: 100px;
+    height: 400px;
+background: #000;
+}
+
+.card img {
+    width: 100px;
+}
+
+.card p {
+    color: white;
+}
+
+.card button {
+    width: 100%;
+}

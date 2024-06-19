@@ -1,0 +1,34 @@
+body{
+    height: 200vh;
+}
+.container{
+    height: 100vh;
+
+    display: flex;
+    gap: 20px;
+    background-color: purple;
+
+}
+.box{
+    width: 100px;
+    height:100px;
+    background-color: greenyellow;
+    border:1px solid black ;
+}
+#box1{
+    position:sticky;
+    top: 0%;
+    left: 0px;
+    z-index:0 ;
+}
+#box2{
+    background-color: blueviolet;
+}
+#box3{
+    background-color: crimson;
+
+}
+#box4{
+    background-color: coral;
+}
+
