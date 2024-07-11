@@ -1,0 +1,36 @@
+// console.log("Hello");
+//console.log("Hello");
+
+function greet(){
+    //Reuse
+    console.log("starting...");
+    console.log("walking...");
+    console.log("running...");
+
+}
+
+run();
+
+run();
+//Types of function  3
+
+//Non input -parameterized function
+function hello(){
+    // NO input , no output
+    console.log(first)
+}
+// Rerurn function
+function givea5(){
+    //output
+    return 5;
+}
+console.log(givea5());
+
+let str = givea5();
+console.log(str);
+
+//combination of parameterized function and return function
+function addNew(a,b){
+    return a + b
+}
+console.log(addNew(167,143));
