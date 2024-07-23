@@ -1,0 +1,25 @@
+/* reset styling */
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* Full screen */
+html,
+body {
+    width: 100%;
+    height:100%;
+}
+.container {
+    width: 100%;
+    height:70%;
+    display: flex;
+    gap:10px;
+}
+.img{
+    width:30px;
+    border-radius:20px;
+}
+.active {
+    width:80%;
+}
