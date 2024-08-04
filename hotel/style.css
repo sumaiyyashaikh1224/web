@@ -80,13 +80,14 @@ p{
     align-items: center;
     padding-top: 100px;
     flex-direction: column;
+    gap: 10px;
 }
 .services h1{
     font-size: 60px;
 }
 .lists{
     display: flex;
-    gap: 30px;
+    gap: 10px;
 }
 .list{
     border: 1px solid red;
