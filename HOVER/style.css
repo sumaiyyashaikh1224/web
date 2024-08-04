@@ -23,8 +23,8 @@ body {
     align-items: center;
     justify-content: center;
 }
-.square{
+.squares{
     width: 20px;
     height: 20px;
-   background-color: gray;
+   background-color: rgb(158, 152, 152);
 }

@@ -1,0 +1,20 @@
+.container {
+    margin:20px;
+    position:relative;
+}
+.Square {
+    width:140px;
+    height:100px;
+    /* background:red; */
+}
+.edge {
+    rotate:110dge;
+    position:absolute;
+    top:0px;
+
+}
+.edge{
+    rotate:140deg;
+    position:absolute;
+    top:0px;
+}
