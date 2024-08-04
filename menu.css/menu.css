@@ -10,5 +10,32 @@ html,body{
     width:100%;
 }
 aside{
-    width: ;
+    width: 40px; 
+    height:100vh;
+    background:cyan;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    transition: width 0.7s ease;
 }
+.hamburger {
+    width:30px;
+    height:30px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    justify-content: center;
+    background: transparent;
+
+    
+    
+     
+}.lines {
+    height:5px;
+    width: 100px;
+    background: white;
+    
+
+    }
